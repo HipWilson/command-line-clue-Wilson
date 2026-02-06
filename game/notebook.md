@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Silver Watch
-- [ ] Fountain Pen
+- [x] Fountain Pen
 - [ ] Brass Bell
 
 ## Notes
