@@ -6,7 +6,7 @@
 - [x] The Baker
 
 ## Weapons
-- [ ] Silver Watch
+- [x] Silver Watch
 - [x] Fountain Pen
 - [ ] Brass Bell
 
