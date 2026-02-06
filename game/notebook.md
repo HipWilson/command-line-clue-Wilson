@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Blacksmith
-- [ ] The Police Officer
+- [x] The Police Officer
 - [ ] The Baker
 
 ## Weapons
