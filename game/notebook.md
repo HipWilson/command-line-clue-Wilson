@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Shopkeeper
+- [ ] The Blacksmith
+- [ ] The Police Officer
 - [ ] The Baker
-- [ ] The Clockmaker
 
 ## Weapons
-- [ ] Crystal Vase
-- [ ] Heavy Book
-- [ ] Walking Stick
+- [ ] Silver Watch
+- [ ] Fountain Pen
+- [ ] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
