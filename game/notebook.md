@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Blacksmith
 - [x] The Police Officer
-- [ ] The Baker
+- [x] The Baker
 
 ## Weapons
 - [ ] Silver Watch
