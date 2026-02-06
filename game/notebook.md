@@ -1,9 +1,9 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Blacksmith
+- [x] The Blacksmith
 - [x] The Police Officer
-- [x] The Baker
+- [ ] The Baker
 
 ## Weapons
 - [x] Silver Watch
